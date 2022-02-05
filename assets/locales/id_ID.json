@@ -1,0 +1,13 @@
+{
+    "buttons": {
+        "login": "Masuk",
+        "sign_in": "Masuk",
+        "logout": "Keluar",
+        "sign_in_fb": "Masuk dengan Facebook",
+        "sign_in_google": "Masuk dengan Google",
+        "sign_in_apple": "Masuk dengan Apple"
+    },
+    "text":{
+        "search": "Cari"
+    }
+}
